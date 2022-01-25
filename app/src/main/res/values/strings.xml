@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Article</string>
+    <string name="article_title">Default Title</string>
+    <string name="article_author">Default Author</string>
+    <string name="article_date">Default Date</string>
+    <string name="divider_bullet">•</string>
+    <string name="empty_char">\ufeff</string>
+<!--    <string name="empty_char">~</string>-->
+    <string name="font_bold"><b>B</b></string>
+    <string name="font_italic"><i>I</i></string>
+    <string name="font_underlined"><u>U</u></string>
+    <string name="font_strikethrough">a̶b̶</string>
+    <string name="hint_red">red</string>
+    <string name="hint_green">green</string>
+    <string name="hint_blue">blue</string>
+    <string name="color_label">Color</string>
+    <string name="block_inline_button">block/inline</string>
+    <string name="search_hint">search</string>
+    <string name="cancel">Cancel</string>
+    <string name="hint_review">What do you think?</string>
+    <string name="submit">Submit</string>
+    <string name="filter_add_review">Add comment</string>
+
+    <string-array name="font_families_array">
+        <item>Times New Roman</item>
+        <item>Helvetica</item>
+        <item>Arial</item>
+        <item>Serif</item>
+        <item>Sans-serif</item>
+        <item>Monospace</item>
+        <item>Cursive</item>
+        <item>Fantasy</item>
+
+    </string-array>
+
+    <string-array name="font_families_array1">
+        <item>Casual</item>
+        <item>Cursive</item>
+        <item>Monospace</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif-black</item>
+        <item>Sans-serif-condensed</item>
+        <item>Sans-serif-condensed-light</item>
+        <item>Sans-serif-condensed-medium</item>
+        <item>Sans-serif-light</item>
+        <item>Sans-serif-medium</item>
+        <item>Sans-serif-smallcaps</item>
+        <item>Sans-serif-thin</item>
+        <item>Serif</item>
+        <item>Serif-monospace</item>
+    </string-array>
+
+    <string-array name="font_sizes_array">
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>10.5</item>
+        <item>11</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+        <item>28</item>
+        <item>36</item>
+        <item>48</item>
+        <item>72</item>
+    </string-array>
+
+    <string-array name="text_alignment_array">
+        <item>left</item>
+        <item>center</item>
+        <item>right</item>
+    </string-array>
+</resources>

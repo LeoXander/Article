@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364559213842",
+    "firebase_url": "https://article-ca838.firebaseio.com",
+    "project_id": "article-ca838",
+    "storage_bucket": "article-ca838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364559213842:android:c3b683b18312d8dbb1ffcb",
+        "android_client_info": {
+          "package_name": "edu.amorozov.article"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364559213842-m68pbohbcccn67bgnjtns1q0oolrovli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUlXK8BluE_7FMjKGkyY2MmU1arjtoAfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364559213842-m68pbohbcccn67bgnjtns1q0oolrovli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
