@@ -7,6 +7,7 @@
 4.	Description: This app will allow any person to become a journalist. Users will be able to create, customize, and share their articles or other researches in the app. In order to create articles or leave comments, users will be required to log in.
 
 ## Screenshots:
+![feed](https://user-images.githubusercontent.com/43732702/151202361-f0678cb3-0320-4445-ad7a-07e4306c3f5e.png)
 
 ![alt text](https://github.com/LeoXander/Article/blob/main/Screenshots/feed.png?raw=true)
 ![alt text](https://github.com/LeoXander/Article/blob/main/Screenshots/read.png?raw=true)
